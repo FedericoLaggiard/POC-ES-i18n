@@ -1,0 +1,11 @@
+{
+  "name": "poc-es6-i18n",
+  "version": "1.0.0",
+  "description": "POC to verify babel es6 i18n compatibility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Federico Laggiard",
+  "license": "ISC"
+}
