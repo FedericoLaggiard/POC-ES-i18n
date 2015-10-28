@@ -1,6 +1,8 @@
 /**
  * Created by federicolaggiard on 28/10/15.
  *
+ * implemented from http://jaysoo.ca/2014/03/20/i18n-with-es6-template-strings/
+ *
  * USAGE
  *
  *     let messageBundle_fr = {
