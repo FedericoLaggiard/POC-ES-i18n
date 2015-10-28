@@ -1,0 +1,1 @@
+*** POC to verify babel es6 i18n compatibility
